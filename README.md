@@ -1,4 +1,4 @@
 tutorial
 ========
 
-Just a git learning repo
+Just a git learning repository
